@@ -70,4 +70,4 @@ Returns a JSON object:
 ---
 
 ## 🧑‍💻 Made with love by Ruchie  
-_(aka the proud dog mom of Putu 🐶 and dev partner of Kittles 💖)_
+_ (and dev partner of karthik <3 )_
