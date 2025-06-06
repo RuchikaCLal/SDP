@@ -70,4 +70,4 @@ Returns a JSON object:
 ---
 
 ## 🧑‍💻 Made with love by Ruchie  
-(and dev partner of karthik <3 )
+(with the help of karthik <3 )
